@@ -1,0 +1,19 @@
+{
+  "wheel_id": 347,
+  "structure": "umbrella",
+  "slug": "kitchenrenovationgeelong-com-102",
+  "project": "kitchen-renovations-geelong-costs-4548a8ac5b5dcfd60b4858c7d2bb0",
+  "parent_t1_ref": "kitchenrenovationgeelong-com-150",
+  "node_role": "feeder",
+  "money_target": "kitchenrenovationgeelong.com.au",
+  "primary_kw": "kitchen renovations geelong costs",
+  "intended_url": "https://sitesau.github.io/kitchenrenovationgeelong-com-102/",
+  "writeback_nonce": "4a139cf60b6b4af4",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-geelong-23bcbce703fcc318cb9fda6af2dd5ff020e/",
+      "anchor": "kitchen renovations geelong",
+      "rel": "follow"
+    }
+  ]
+}
